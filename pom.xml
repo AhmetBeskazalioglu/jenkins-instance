@@ -27,7 +27,8 @@
 		<url/>
 	</scm>
 	<properties>
-		<java.version>23</java.version>
+		<maven.compiler.source>17</maven.compiler.source>  <!-- JDK 17 kullan -->
+		<maven.compiler.target>17</maven.compiler.target>  <!-- JDK 17 hedefle -->
 	</properties>
 	<dependencies>
 		<dependency>
