@@ -1,5 +1,5 @@
 
-FROM openjdk:22-jdk
+FROM jenkins/jenkins
 
 WORKDIR /app
 
