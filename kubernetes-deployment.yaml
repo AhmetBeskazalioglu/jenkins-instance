@@ -15,4 +15,4 @@ spec:
         - name: jenkins-instance
           image: arvadas/docker_repo:jenkins-instance
           ports:
-            - containerPort: 8080
+            - containerPort: 5050
