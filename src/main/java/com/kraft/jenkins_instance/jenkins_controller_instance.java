@@ -9,6 +9,6 @@ public class jenkins_controller_instance {
 
         @RequestMapping("/hello")
         public String hello() {
-            return "Hello Jenkins!";
+            return "Hello Jenkins with NGrok";
         }
 }
