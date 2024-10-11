@@ -50,15 +50,25 @@ public class JenkinsControllerInstance {
                     <h1>Banyo Tadilat ve Yenileme</h1>
                     <p class="advertisement-text">
                         Banyo tadilat, tesisat, kırım döküm, fayans örme ve yeniden banyo oluşturma hizmetlerimizle hizmetinizdeyiz!
+                        Uzman ekibimizle banyolarınızı tamamen yeniliyoruz. İster klasik ister modern tarzda, banyonuzu hayalinizdeki gibi dönüştürmek bizim işimiz.
                     </p>
                     <img src="/images/1.DNG" alt="Banyo Tadilat" class="main-image">
                     <p class="advertisement-text">
-                        Profesyonel ustalık ve kaliteli malzemelerle banyolarınızı hayalinizdeki gibi yeniliyoruz.
+                        Banyonuzda ihtiyaç duyduğunuz her türlü tesisat ve tadilat işlemlerini profesyonelce yapıyoruz.
+                        Kaliteli malzemeler ve deneyimli ustalarımızla banyolarınıza değer katıyoruz.
+                    </p>
+                    <p class="advertisement-text">
+                        Fayans döşeme, lavabo montajı, duşakabin kurulumu gibi işlemlerle banyolarınıza estetik ve kullanışlı bir görünüm kazandırıyoruz.
                     </p>
                     <img src="/images/2.DNG" alt="Banyo Yenileme" class="side-image">
                     <img src="/images/1.DNG" alt="Tadilat Hizmeti" class="side-image">
                     <p class="advertisement-text">
-                        Bize ulaşarak banyonuza değer katacak çözümlerimiz hakkında daha fazla bilgi edinebilirsiniz!
+                        Banyonuza estetik bir görünüm kazandırmak mı istiyorsunuz? Uzman kadromuzla banyolarınızı yeniliyoruz ve hayalinizdeki rahatlığı sağlıyoruz.
+                        Bize ulaşarak detaylı bilgi alabilir, ücretsiz keşif randevusu talep edebilirsiniz!
+                    </p>
+                    <p class="advertisement-text">
+                        <strong>Telefon:</strong> 0555 123 45 67<br>
+                        <strong>Email:</strong> info@banyotadilat.com
                     </p>
                 </body>
                 </html>
