@@ -19,37 +19,50 @@ public class JenkinsControllerInstance {
                         body {
                             font-family: Arial, sans-serif;
                             text-align: center;
-                            background-color: #ffffff;
-                            color: #000000;
-                            padding: 0;
                             margin: 0;
+                            padding: 0;
+                            background-color: #f0f0f0;
+                        }
+                        h1 {
+                            color: #444;
+                            font-size: 36px;
+                            margin: 20px 0;
                         }
                         .main-image {
-                            max-width: 80%;
-                            height: auto;
-                            margin: 20px 0;
-                            border: 3px solid #ccc;
+                            width: 80%;
+                            border-radius: 10px;
+                            margin: 20px auto;
+                            box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
                         }
                         .side-images {
                             display: flex;
                             justify-content: center;
-                            gap: 10px;
+                            gap: 20px;
                             margin: 20px 0;
                         }
                         .side-image {
-                            max-width: 30%;
+                            max-width: 45%;
                             height: auto;
-                            border: 2px solid #ccc;
+                            border-radius: 10px;
+                            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
                         }
                         .advertisement-text {
-                            font-size: 16px;
-                            margin: 15px auto;
-                            max-width: 80%;
-                            line-height: 1.6;
+                            font-size: 22px;
+                            margin: 20px;
+                            color: #333;
+                            line-height: 1.8;
                         }
                         .contact-info {
                             font-weight: bold;
-                            margin-top: 20px;
+                            font-size: 20px;
+                            margin-top: 30px;
+                        }
+                        a {
+                            color: #0056b3;
+                            text-decoration: none;
+                        }
+                        a:hover {
+                            text-decoration: underline;
                         }
                     </style>
                 </head>
@@ -71,8 +84,8 @@ public class JenkinsControllerInstance {
                         İletişime geçerek ücretsiz keşif randevusu talep edebilirsiniz!
                     </p>
                     <p class="contact-info">
-                        Telefon: 0555 123 45 67<br>
-                        Email: info@banyotadilat.com
+                        Telefon: <a href="tel:+905551234567">0555 123 45 67</a><br>
+                        Email: <a href="mailto:info@banyotadilat.com">info@banyotadilat.com</a>
                     </p>
                 </body>
                 </html>
