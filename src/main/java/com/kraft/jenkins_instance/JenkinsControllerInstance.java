@@ -18,75 +18,72 @@ public class JenkinsControllerInstance {
                     <style>
                         body {
                             font-family: Arial, sans-serif;
-                            text-align: center;
                             margin: 0;
                             padding: 0;
                             background-color: #f0f0f0;
+                            color: #333;
+                        }
+                        .container {
+                            text-align: center;
+                            padding: 20px;
+                        }
+                        .image {
+                            width: 70%;
+                            border-radius: 10px;
+                            margin-top: 20px;
+                            box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+                        }
+                        .text-section {
+                            background-color: #fff;
+                            padding: 20px;
+                            margin-top: 30px;
+                            box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+                            border-radius: 10px;
+                            max-width: 800px;
+                            margin-left: auto;
+                            margin-right: auto;
                         }
                         h1 {
                             color: #444;
-                            font-size: 36px;
-                            margin: 20px 0;
+                            font-size: 32px;
+                            margin-bottom: 15px;
                         }
-                        .main-image {
-                            width: 80%;
-                            border-radius: 10px;
-                            margin: 20px auto;
-                            box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
-                        }
-                        .side-images {
-                            display: flex;
-                            justify-content: center;
-                            gap: 20px;
-                            margin: 20px 0;
-                        }
-                        .side-image {
-                            max-width: 45%;
-                            height: auto;
-                            border-radius: 10px;
-                            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
-                        }
-                        .advertisement-text {
-                            font-size: 22px;
-                            margin: 20px;
-                            color: #333;
-                            line-height: 1.8;
+                        p {
+                            font-size: 18px;
+                            line-height: 1.6;
                         }
                         .contact-info {
                             font-weight: bold;
                             font-size: 20px;
                             margin-top: 30px;
                         }
-                        a {
-                            color: #0056b3;
-                            text-decoration: none;
-                        }
-                        a:hover {
-                            text-decoration: underline;
-                        }
                     </style>
                 </head>
                 <body>
-                    <h1>Banyo Tadilat ve Yenileme</h1>
-                    <p class="advertisement-text">
-                        Banyo tadilat, tesisat, kırım döküm, fayans döşeme ve yeniden banyo oluşturma hizmetlerimizle hizmetinizdeyiz! Uzman ekibimizle banyolarınızı tamamen yeniliyoruz.
-                    </p>
-                    <img src="/images/1.DNG" alt="Banyo Tadilat" class="main-image">
-                    <p class="advertisement-text">
-                        Profesyonel ustalık ve kaliteli malzemelerle banyolarınızı hayalinizdeki gibi yeniliyoruz. Banyonuza değer katmak bizim işimiz!
-                    </p>
-                    <div class="side-images">
-                        <img src="/images/2.DNG" alt="Banyo Yenileme" class="side-image">
-                        <img src="/images/1.DNG" alt="Tadilat Hizmeti" class="side-image">
+                    <div class="container">
+                        <h1>Banyo Tadilat ve Yenileme</h1>
+                        
+                        <div class="text-section">
+                            <p>Banyo tadilat, tesisat, kırım döküm, fayans döşeme ve yeniden banyo oluşturma hizmetlerimizle hizmetinizdeyiz! Uzman ekibimizle banyolarınızı tamamen yeniliyoruz.</p>
+                        </div>
+                        
+                        <img src="/images/1.DNG" alt="Banyo Tadilat" class="image">
+                        
+                        <div class="text-section">
+                            <p>Profesyonel ustalık ve kaliteli malzemelerle banyolarınızı hayalinizdeki gibi yeniliyoruz. Banyonuza değer katmak bizim işimiz!</p>
+                        </div>
+                        
+                        <img src="/images/2.DNG" alt="Banyo Yenileme" class="image">
+                        
+                        <div class="text-section">
+                            <p>Fayans döşeme, lavabo montajı, duşakabin kurulumu gibi işlemlerle banyolarınıza estetik ve kullanışlı bir görünüm kazandırıyoruz. İletişime geçerek ücretsiz keşif randevusu talep edebilirsiniz!</p>
+                        </div>
+                        
+                        <div class="contact-info">
+                            Telefon: 0555 123 45 67<br>
+                            Email: info@banyotadilat.com
+                        </div>
                     </div>
-                    <p class="advertisement-text">
-                        Fayans döşeme, lavabo montajı, duşakabin kurulumu gibi işlemlerle banyolarınıza estetik ve kullanışlı bir görünüm kazandırıyoruz. 
-                        İletişime geçerek ücretsiz keşif randevusu talep edebilirsiniz!
-                    </p>
-                    <p class="contact-info">
-                        Telefon: <a href="tel:+905551234567">0555 123 45 67</a><br>
-                        Email: <a href="mailto:info@banyotadilat.com">info@banyotadilat.com</a>
-                    </p>
                 </body>
                 </html>
                 """;
