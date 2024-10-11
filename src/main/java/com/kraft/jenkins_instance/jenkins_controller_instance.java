@@ -9,6 +9,6 @@ public class jenkins_controller_instance {
 
         @RequestMapping("/hello")
         public String hello() {
-            return "Hello Jenkins with NGrok:v4 - on Virtual Machine:v4 (Final)";
+            return "Hello Jenkins on Virtual Machine:v5 ";
         }
 }
