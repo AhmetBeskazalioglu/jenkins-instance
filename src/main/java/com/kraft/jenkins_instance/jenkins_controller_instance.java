@@ -41,12 +41,12 @@ public class jenkins_controller_instance {
                     <p class="advertisement-text">
                         Banyo tadilat, tesisat, kırım döküm, fayans örme ve yeniden banyo oluşturma hizmetlerimizle hizmetinizdeyiz!
                     </p>
-                    <img src="https://drive.google.com/uc?export=view&id=1NajdbiQ3Udcaea-gsVLvjtVXSaYBxKWT" alt="Banyo Tadilat" class="main-image">
+                    <img src="https://drive.google.com/file/d/1NajdbiQ3Udcaea-gsVLvjtVXSaYBxKWT/view?usp=sharing" alt="Banyo Tadilat" class="main-image">
                     <p class="advertisement-text">
                         Profesyonel ustalık ve kaliteli malzemelerle banyolarınızı hayalinizdeki gibi yeniliyoruz.
                     </p>
-                    <img src="https://drive.google.com/uc?export=view&id=1qcAoANAR21ce3owufW_v6cUipzV3MrLG" alt="Banyo Yenileme" class="side-image">
-                    <img src="https://drive.google.com/uc?export=view&id=1NajdbiQ3Udcaea-gsVLvjtVXSaYBxKWT" alt="Tadilat Hizmeti" class="side-image">
+                    <img src="https://drive.google.com/file/d/1qcAoANAR21ce3owufW_v6cUipzV3MrLG/view?usp=sharing" alt="Banyo Yenileme" class="side-image">
+                    <img src="https://drive.google.com/file/d/1NajdbiQ3Udcaea-gsVLvjtVXSaYBxKWT/view?usp=sharing" alt="Tadilat Hizmeti" class="side-image">
                     <p class="advertisement-text">
                         Bize ulaşarak banyonuza değer katacak çözümlerimiz hakkında daha fazla bilgi edinebilirsiniz!
                     </p>
