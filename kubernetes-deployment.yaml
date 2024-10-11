@@ -14,5 +14,6 @@ spec:
       containers:
         - name: jenkins-instance
           image: arvadas/docker_repo:jenkins-instance
+          imagePullPolicy: Always
           ports:
             - containerPort: 5050
