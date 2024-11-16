@@ -7,9 +7,8 @@ metadata:
 spec:
   type: NodePort
   ports:
-    - port: 8081
+    - port: 8080
       targetPort: 5050
-      protocol: TCP
       nodePort: 32000
   selector:
     app: jenkins-instance
