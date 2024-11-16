@@ -9,6 +9,6 @@ public class jenkins_controller_instance {
 
     @RequestMapping("/hello")
     public String hello() {
-        return "Hello Docker-Jenkins-K8s:v4";
+        return "Hello Docker-Jenkins-K8s:v5";
     }   
 }
